@@ -52,6 +52,3 @@ To replicate the results or extend this framework, follow the steps below:
 - Integrate semantic information from non-visual brain regions to reconstruct more abstract information (e.g., emotions).
 - Develop additional cross-subject learning methodologies to enhance robustness.
 
-## Citation
-If you use this code, please cite the original thesis:
-Sohyung Kim, Cross-subject fMRI Image Reconstruction using Contrastive Learning. Seoul National University, February 2025. (exact reference will be updated soon)
