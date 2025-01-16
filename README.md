@@ -22,7 +22,7 @@ This project addresses these challenges by introducing a cross-subject learning 
 - **Double-Conditioned Latent Diffusion Model (DC-LDM)**: Enhances decoding consistency while maintaining semantic fidelity.
 - **Cross-Subject Adaptation**: Enables the model to work on diverse subjects with minimal fine-tuning.
 
-- <img src="/asset/new_pipeline.png" width="700" height="600"/>
+<img src="/asset/new_pipeline.png">
 
 ## Methodology
 1. Pretraining: The fMRI encoder-decoder is pretrained on a large-scale unpaired dataset (e.g., Human Connectome Project).
