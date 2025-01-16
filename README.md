@@ -7,7 +7,7 @@ Unimind: cross-subject fMRI Image Reconstruction.
 This repository contains the implementation of a cross-subject fMRI image reconstruction framework based on contrastive learning. The project focuses on decoding and reconstructing images from fMRI signals using a generalizable and efficient deep learning architecture.
 
 ## Overview
-<img src="/asset/task_explain.png" width="200" height="400"/>
+<img src="/asset/task_explain.png" width="800" height="600"/>
 
 Traditional single-subject fMRI decoding models face limitations such as:
 - High computational cost for training separate models per subject
