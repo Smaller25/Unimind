@@ -17,12 +17,13 @@ Traditional single-subject fMRI decoding models face limitations such as:
 This project addresses these challenges by introducing a cross-subject learning framework that aligns latent semantic spaces across multiple subjects.
 
 ## Key Features
+<img src="/asset/new_pipeline.jpg" width="600" height="500"/>
 - **Contrastive Learning with Siamese Networks**: Aligns semantic representations across subjects for better generalization.
 - **ConvMixer Encoder**: Lightweight convolutional architecture for faster training and efficient feature extraction.
 - **Double-Conditioned Latent Diffusion Model (DC-LDM)**: Enhances decoding consistency while maintaining semantic fidelity.
 - **Cross-Subject Adaptation**: Enables the model to work on diverse subjects with minimal fine-tuning.
 
-<img src="/asset/new_pipeline.jpg" width="600" height="500"/>
+
 
 ## Methodology
 1. Pretraining: The fMRI encoder-decoder is pretrained on a large-scale unpaired dataset (e.g., Human Connectome Project).
@@ -52,3 +53,4 @@ To replicate the results or extend this framework, follow the steps below:
 
 ## Citation
 If you use this code, please cite the original thesis:
+Sohyung Kim, Cross-subject fMRI Image Reconstruction using Contrastive Learning. Seoul National University, February 2025. (exact reference will be updated soon)
