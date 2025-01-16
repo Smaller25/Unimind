@@ -18,6 +18,7 @@ This project addresses these challenges by introducing a cross-subject learning 
 
 ## Key Features
 <img src="/asset/new_pipeline.jpg" width="600" height="500"/>
+
 - **Contrastive Learning with Siamese Networks**: Aligns semantic representations across subjects for better generalization.
 - **ConvMixer Encoder**: Lightweight convolutional architecture for faster training and efficient feature extraction.
 - **Double-Conditioned Latent Diffusion Model (DC-LDM)**: Enhances decoding consistency while maintaining semantic fidelity.
